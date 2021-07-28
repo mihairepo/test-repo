@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T09:27:57.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203" version="14.9.2" etag="ZPOZ6F9E2QIHBHo5hcE_" type="github"><diagram id="1pgFqk30Ii29UOg_QAwz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-28T17:15:42.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="OXBIJZdYmpph29mebPVR" version="14.9.2" type="github">
+  <diagram id="1pgFqk30Ii29UOg_QAwz" name="Page-1">
+    <mxGraphModel dx="1382" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-1" target="emAAfmEKNeKGw9AN2HSt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-1" value="Transport Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-2" target="emAAfmEKNeKGw9AN2HSt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-2" target="emAAfmEKNeKGw9AN2HSt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-2" value="Message Queue&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;verticalAlign=middle;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="225" width="60" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-3" target="emAAfmEKNeKGw9AN2HSt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-3" value="Rule Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-4" target="emAAfmEKNeKGw9AN2HSt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-4" target="emAAfmEKNeKGw9AN2HSt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-4" target="emAAfmEKNeKGw9AN2HSt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-4" value="Core Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-5" value="Data Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="230" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-8" value="User Interfaces" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-9" value="External Services" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="970" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-10" target="emAAfmEKNeKGw9AN2HSt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-10" value="The Things Network (LoRaWAN)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-11" target="emAAfmEKNeKGw9AN2HSt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-11" value="Edge Gateway" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-12" target="emAAfmEKNeKGw9AN2HSt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-12" value="Data Logger" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-16" target="emAAfmEKNeKGw9AN2HSt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="emAAfmEKNeKGw9AN2HSt-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="emAAfmEKNeKGw9AN2HSt-16" value="Smart Sensors" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="287.5" width="80" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
